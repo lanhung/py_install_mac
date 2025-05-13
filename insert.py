@@ -4,7 +4,7 @@ from datetime import datetime
 
 # 数据库连接配置（请替换为你自己的）
 db_config = {
-    "host": "localhost",
+    "host": "192.168.0.147",
     "user": "root",
     "password": "123456",
     "database": "xiaozhi_esp32_server",
